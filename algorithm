@@ -1,7 +1,14 @@
-Preprocess Image
-    get image
-    convert to grayscale
-    increase contrast,brightness and sharpen edges
+Preprocess File
+    get Scanned File
+    get page
+    apply transforms - parallel process (if faster)
+        grayscale
+        contrast
+        brightness
+        sharpen edges
+    compile File
+    or
+    perform next step per page
 Seperate Lines
     find horizontal whitespace 
     divide image by horizontal whitespace
@@ -13,7 +20,7 @@ Seperate Lines
     assign line to process
     save processid with index no of line
 Recognize Text - parallel processes
-    OpenCV        
+    OpenCV
     or
     Tensorflow
     return text
