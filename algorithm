@@ -1,0 +1,22 @@
+Preprocess Image
+    get image
+    convert to grayscale
+    increase contrast,brightness and sharpen edges
+Seperate Lines
+    find horizontal whitespace 
+    divide image by horizontal whitespace
+        return cropped image of line
+    or
+    pass y coordinate of start and end of line
+        crop image by line in next step
+    assign index no to line
+    assign line to process
+    save processid with index no of line
+Recognize Text - parallel processes
+    OpenCV        
+    or
+    Tensorflow
+    return text
+Compile Page
+    arrange returned text according to index and process id
+    save as txt or pdf
