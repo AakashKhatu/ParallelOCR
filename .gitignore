@@ -34,3 +34,6 @@ pip-selfcheck.json
 # End of https://www.gitignore.io/api/git,venv
 
 input_files
+processed_files
+sentences
+.vscode
