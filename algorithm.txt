@@ -20,9 +20,16 @@ Seperate Lines
     assign line to process
     save processid with index no of line
 Recognize Text - parallel processes
-    OpenCV
-    or
     Tensorflow
+        Train
+            generate dataset from famous google fonts
+            use CNN-RNN with CTC loss to train model on dataset 
+                (similar to SimpleHTR but optimised for printed Text)
+        Execute
+            blob detection for letters (group vertical blobs)
+            pass letters to trained model
+            Detect spaces
+            compile Text
     return text
 Compile Page
     arrange returned text according to index and process id
