@@ -44,3 +44,4 @@ sentences/*
 apikey.txt
 get_font_images/font_list.json
 get_font_images/font_names.json
+get_font_images/chromedriver.exe

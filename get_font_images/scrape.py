@@ -1,9 +1,11 @@
 # get screenshot of body tag with font characters by loading the template file in browser
 from selenium import webdriver
 
-driver = webdriver.Chrome('Font Downloader/chromedriver.exe')
+# add chrome driver binary to this folder
+driver = webdriver.Chrome('get_font_images/chromedriver.exe')
+
 driver.implicitly_wait(10)
-with open("Font Downloader/test.html", "r") as file:
+with open("get_font_images/test.html", "r") as file:
     html = "\n".join(file.readlines())
 name = input("enter font name:")
 while name is not "exit":
