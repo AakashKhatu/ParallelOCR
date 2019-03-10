@@ -22,7 +22,7 @@ html_start = """
 
         body {{
             display: inline-block;
-            outline: 1px solid red;
+            /* outline: 1px solid red; */
             padding: 10px;
         }}
     </style>
