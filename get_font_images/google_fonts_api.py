@@ -1,7 +1,8 @@
 import json
 import requests
 
-api_key = open("apikey.txt", "r").readline()
+# store api key in apikey.txt in root folder
+api_key = open("./apikey.txt", "r").readline()
 api_url = "https://www.googleapis.com/webfonts/v1/webfonts?key="
 r = requests.get(api_url+api_key)
 # get list of fonts from response

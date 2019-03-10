@@ -34,7 +34,13 @@ pip-selfcheck.json
 # End of https://www.gitignore.io/api/git,venv
 
 input_files
-processed_files
-Screenshots
-sentences
+processed_files/*
+!processed_files/.gitkeep
+Screenshots/*
+!Screenshots/.gitkeep
+sentences/*
+!sentences/.gitkeep
 .vscode
+apikey.txt
+get_font_images/font_list.json
+get_font_images/font_names.json
