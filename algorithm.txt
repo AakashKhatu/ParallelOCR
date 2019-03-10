@@ -11,7 +11,7 @@ Preprocess File
         grayscale
         contrast
         brightness
-        sharpen edges
+        sharpen edges987
     compile File.
     or
     perform next step per page.

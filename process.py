@@ -1,9 +1,12 @@
+# SVM to recognize digits
+# dataset is 8x8 res
 import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn import svm
 import time
 
 start = time.time()
+# temporarily using the digits dataset
 digits = datasets.load_digits()
 clf = svm.SVC()
 clf = svm.SVC(gamma=0.001, C=100)
