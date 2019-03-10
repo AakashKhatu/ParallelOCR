@@ -11,15 +11,14 @@ primarily optimising for scanned boooks
   - iterate over list of fonts and take screenshots. (*process parallely*)  
   - Seperate letters from screenshots with opencv.  
   - apply Preprocess on all letters and change resolution if required.  
-  - 
 ### Preprocess File  
   - get Scanned File.  
   - get page.  
   - apply transforms (*process paralely if faster*):  
-    grayscale (*using otsu thresholding*)  
-    contrast  
-    brightness  
-    sharpen edges  
+      - grayscale (*using otsu thresholding*)  
+      - contrast  
+      - brightness  
+      - sharpen edges  
   - compile File.  
   - or  
   - perform next step per page.  
@@ -27,7 +26,7 @@ primarily optimising for scanned boooks
   - find horizontal whitespace.  
   - divide image by horizontal whitespace.  
   - return cropped image of line.  
-or  
+OR  
   - pass y coordinate of start and end of line.  
      crop image by line in next step.  
   - assign index no to line.  
@@ -35,20 +34,16 @@ or
   - save processid with index no of line.  
 ### Recognize Text  
   - Tensorflow  
-
-    
-  - use CNN-RNN with CTC loss to train model on dataset .  
-  - (similar to SimpleHTR but optimised for printed Text)  
+    - use CNN-RNN with CTC loss to train model on dataset .  
+    - (similar to SimpleHTR but optimised for printed Text)  
 OR  
-  - use SVMs (because dataset would be relatively small)  
-
-    
-  - Execute
-  - blob detection for letters (group vertical blobs)  
-  - pass letters to trained model  
-  - Detect spaces  
-  - compile Text  
-  - return text  
+     - use SVMs (because dataset would be relatively small)  
+  - use multiprocessing to execute.
+  - blob detection for letters (*group vertical groups*)  
+  - pass letters to trained model.  
+  - Detect spaces.  
+  - compile Text.  
+  - return text.  
 ### Compile Page  
   - arrange returned text according to index and process id  
   - save as txt or pdf  
