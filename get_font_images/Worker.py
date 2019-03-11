@@ -26,6 +26,10 @@ class Worker(Process):
         driver = webdriver.Chrome(chrome_path)
         driver.implicitly_wait(10)
 
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(process)d %(asctime)s - %(levelname)s - %(message)s')
+
         def get_screenshot(name, i=0):
             driver.get(
                 "data:text/html;charset=utf-8," + self.html.format(name))
