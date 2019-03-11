@@ -1,20 +1,19 @@
 from Worker import Worker
 import json
-import time
 
 font_names = json.load(open("get_font_images/font_names.json"))
-print(len(font_names))
-a = Worker(font_names[0:1])
-start = time.time()
-a.get_screenshot('Roboto')
-mid = time.time()
-print("1st font download completed in {0} seconds".format(mid-start))
-a.get_screenshot('Antic')
-end = time.time()
-print("2st font download completed in {0} seconds".format(end-mid))
+total_fonts = len(font_names)
+workers = []
 
-# Output:
-# Saved Screenshot of Roboto
-# 1st font download completed in 29.1345317363739 seconds
-# Saved Screenshot of Antic
-# 2st font download completed in 0.7111871242523193 seconds
+# find local minima of this hyperbolic equation
+# to get ideal no. of threads for max performance
+# running time = init_time * x + total_fonts*time_per_font / x
+x = 4
+
+start_indexes = [int(total_fonts*i/x) for i in range(x+1)]
+indexes = zip(start_indexes, start_indexes[1:])
+
+if __name__ == "__main__":
+    for i, (start, end) in enumerate(indexes):
+        w = Worker(font_names[start:end], start, i)
+        w.start()
