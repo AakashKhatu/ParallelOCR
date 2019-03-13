@@ -11,6 +11,8 @@ primarily optimising for scanned boooks
   - create template html file with all required letters.  
   - iterate over list of fonts and take screenshots of all letters separately using Multiple Selenium Processes.
   - apply Preprocess on all letters and change resolution to 16x16 pixels.  
+
+
 ### Preprocess File  
   - get Scanned File.  
   - get page.  
@@ -22,6 +24,8 @@ primarily optimising for scanned boooks
   - compile File.  
   - or  
   - perform next step per page.  
+
+
 ### Seperate Lines  
   - find horizontal whitespace.  
   - divide image by horizontal whitespace.  
@@ -44,6 +48,8 @@ OR
   - Detect spaces.  
   - compile Text.  
   - return text.  
+
+
 ### Compile Page  
   - arrange returned text according to index and process id  
   - save as txt or pdf  
