@@ -1,7 +1,0 @@
-https://en.wikipedia.org/wiki/Kernel_(image_processing)
-https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks.html
-https://github.com/githubharald/SimpleHTR
-https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
-
-Training Invariant Support Vector Machines
-https://people.eecs.berkeley.edu/~malik/cs294/decoste-scholkopf.pdf
