@@ -7,10 +7,10 @@ primarily optimising for scanned boooks
 
 ### Create dataset  
   - list all fonts on google fonts with web api.  
+  - select only Serif and Sans Serif Fonts.
   - create template html file with all required letters.  
-  - iterate over list of fonts and take screenshots. (*process parallely*)  
-  - Seperate letters from screenshots with opencv.  
-  - apply Preprocess on all letters and change resolution if required.  
+  - iterate over list of fonts and take screenshots of all letters separately using Multiple Selenium Processes.
+  - apply Preprocess on all letters and change resolution to 16x16 pixels.  
 ### Preprocess File  
   - get Scanned File.  
   - get page.  
