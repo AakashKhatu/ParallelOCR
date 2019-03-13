@@ -1,19 +1,32 @@
+# single instance of multi threaded scraper
+# implemented in master and worker modules
+
 # get screenshot of body tag with font characters
 # by loading the template file in browser
 from selenium import webdriver
+import string
+import os
 
-# add chrome driver binary to this path
-chrome_path = 'get_font_images/chromedriver.exe'
+# create directory structure for letters
+for letter in string.ascii_letters:
+    try:
+        os.makedirs("./Screenshots/"+letter)
+    except FileExistsError:
+        pass
 
 
-driver = webdriver.Chrome(chrome_path)
+# add geckodriver binary to this path
+driver_path = r'./get_font_images/geckodriver.exe'
+
+driver = webdriver.Firefox(executable_path=driver_path)
+driver.set_window_size(1080, 500)
 driver.implicitly_wait(10)
 with open("get_font_images/test.html", "r") as file:
     html = "\n".join(file.readlines())
-name = input("enter font name:")
 
 
 def getscreenshot(name):
     driver.get("data:text/html;charset=utf-8,"+html.format(name))
-    driver.find_element_by_id("box").screenshot("Screenshots/" + name + ".png")
-    print("Saved Screenshot of " + name)
+    for letter in string.ascii_letters:
+        driver.find_element_by_id(letter).screenshot(
+            "Screenshots/{0}/{1}.png".format(letter, name))
