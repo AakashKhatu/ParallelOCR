@@ -1,0 +1,466 @@
+2019-03-13 10:33:31,426 - INFO - Started Worker 0
+2019-03-13 10:33:31,489 - INFO - Started Worker 1
+2019-03-13 10:33:31,554 - INFO - Started Worker 2
+2019-03-13 10:33:31,622 - INFO - Started Worker 3
+2019-03-13 10:33:31,694 - INFO - Started Worker 4
+2019-03-13 10:33:31,768 - INFO - Started Worker 5
+2019-03-13 10:33:31,840 - INFO - Started Worker 6
+17424 2019-03-13 10:33:52,776 - INFO - Completed Screenshot of IM Fell Great Primer SC
+17424 2019-03-13 10:33:53,845 - INFO - Completed Screenshot of Imprima
+16972 2019-03-13 10:33:57,618 - INFO - Completed Screenshot of Peddana
+17424 2019-03-13 10:33:57,618 - INFO - Completed Screenshot of Inder
+16972 2019-03-13 10:33:59,246 - INFO - Completed Screenshot of Petrona
+17424 2019-03-13 10:34:00,015 - INFO - Completed Screenshot of Inika
+17424 2019-03-13 10:34:01,110 - INFO - Completed Screenshot of Inknut Antiqua
+16972 2019-03-13 10:34:01,261 - INFO - Completed Screenshot of Philosopher
+17340 2019-03-13 10:34:01,978 - INFO - Completed Screenshot of BioRhyme
+17064 2019-03-13 10:34:03,042 - INFO - Completed Screenshot of ABeeZee
+17424 2019-03-13 10:34:04,174 - INFO - Completed Screenshot of Istok Web
+16972 2019-03-13 10:34:04,223 - INFO - Completed Screenshot of Play
+13404 2019-03-13 10:34:04,557 - INFO - Completed Screenshot of Encode Sans
+17340 2019-03-13 10:34:04,558 - INFO - Completed Screenshot of BioRhyme Expanded
+268 2019-03-13 10:34:04,660 - INFO - Completed Screenshot of Secular One
+17064 2019-03-13 10:34:05,457 - INFO - Completed Screenshot of Abel
+16972 2019-03-13 10:34:07,202 - INFO - Completed Screenshot of Playfair Display
+17424 2019-03-13 10:34:07,212 - INFO - Completed Screenshot of Italiana
+13404 2019-03-13 10:34:07,818 - INFO - Completed Screenshot of Encode Sans Condensed
+17064 2019-03-13 10:34:07,855 - INFO - Completed Screenshot of Abhaya Libre
+17340 2019-03-13 10:34:07,879 - INFO - Completed Screenshot of Biryani
+268 2019-03-13 10:34:08,454 - INFO - Completed Screenshot of Seymour One
+16972 2019-03-13 10:34:09,281 - INFO - Completed Screenshot of Playfair Display SC
+13404 2019-03-13 10:34:09,752 - INFO - Completed Screenshot of Encode Sans Expanded
+17424 2019-03-13 10:34:09,860 - INFO - Completed Screenshot of Jacques Francois
+17340 2019-03-13 10:34:09,869 - INFO - Completed Screenshot of Bitter
+17064 2019-03-13 10:34:10,070 - INFO - Completed Screenshot of Aclonica
+268 2019-03-13 10:34:11,402 - INFO - Completed Screenshot of Shanti
+16972 2019-03-13 10:34:11,654 - INFO - Completed Screenshot of Podkova
+13404 2019-03-13 10:34:11,757 - INFO - Completed Screenshot of Encode Sans Semi Condensed
+17424 2019-03-13 10:34:11,981 - INFO - Completed Screenshot of Jaldi
+268 2019-03-13 10:34:14,491 - INFO - Completed Screenshot of Share Tech
+13404 2019-03-13 10:34:14,491 - INFO - Completed Screenshot of Encode Sans Semi Expanded
+17064 2019-03-13 10:34:14,572 - INFO - Completed Screenshot of Acme
+17424 2019-03-13 10:34:14,572 - INFO - Completed Screenshot of Jockey One
+16972 2019-03-13 10:34:14,572 - INFO - Completed Screenshot of Poly
+17340 2019-03-13 10:34:14,572 - INFO - Completed Screenshot of Black And White Picture
+17340 2019-03-13 10:34:17,115 - INFO - Completed Screenshot of Black Han Sans
+17424 2019-03-13 10:34:17,165 - INFO - Completed Screenshot of Josefin Sans
+16972 2019-03-13 10:34:17,188 - INFO - Completed Screenshot of Pontano Sans
+13404 2019-03-13 10:34:17,271 - INFO - Completed Screenshot of Englebert
+17064 2019-03-13 10:34:17,576 - INFO - Completed Screenshot of Actor
+268 2019-03-13 10:34:17,688 - INFO - Completed Screenshot of Signika
+13404 2019-03-13 10:34:19,392 - INFO - Completed Screenshot of Enriqueta
+17340 2019-03-13 10:34:19,440 - INFO - Completed Screenshot of Brawler
+16972 2019-03-13 10:34:19,558 - INFO - Completed Screenshot of Poppins
+17424 2019-03-13 10:34:19,593 - INFO - Completed Screenshot of Josefin Slab
+268 2019-03-13 10:34:19,863 - INFO - Completed Screenshot of Signika Negative
+17064 2019-03-13 10:34:20,142 - INFO - Completed Screenshot of Adamina
+13404 2019-03-13 10:34:21,620 - INFO - Completed Screenshot of Esteban
+16972 2019-03-13 10:34:21,667 - INFO - Completed Screenshot of Port Lligat Sans
+268 2019-03-13 10:34:21,683 - INFO - Completed Screenshot of Sintony
+17340 2019-03-13 10:34:21,687 - INFO - Completed Screenshot of Bree Serif
+17424 2019-03-13 10:34:22,234 - INFO - Completed Screenshot of Jua
+17064 2019-03-13 10:34:22,979 - INFO - Completed Screenshot of Advent Pro
+18160 2019-03-13 10:34:23,389 - INFO - Completed Screenshot of Maven Pro
+17340 2019-03-13 10:34:24,182 - INFO - Completed Screenshot of Bubbler One
+268 2019-03-13 10:34:24,236 - INFO - Completed Screenshot of Six Caps
+16972 2019-03-13 10:34:24,273 - INFO - Completed Screenshot of Port Lligat Slab
+13404 2019-03-13 10:34:24,353 - INFO - Completed Screenshot of Exo
+17424 2019-03-13 10:34:24,506 - INFO - Completed Screenshot of Judson
+17064 2019-03-13 10:34:24,934 - INFO - Completed Screenshot of Aldrich
+268 2019-03-13 10:34:25,522 - INFO - Completed Screenshot of Slabo 13px
+17340 2019-03-13 10:34:25,532 - INFO - Completed Screenshot of Buenard
+13404 2019-03-13 10:34:25,621 - INFO - Completed Screenshot of Exo 2
+16972 2019-03-13 10:34:25,636 - INFO - Completed Screenshot of Pragati Narrow
+18160 2019-03-13 10:34:26,145 - INFO - Completed Screenshot of Meera Inimai
+17424 2019-03-13 10:34:26,157 - INFO - Completed Screenshot of Julius Sans One
+17064 2019-03-13 10:34:26,326 - INFO - Completed Screenshot of Alef
+268 2019-03-13 10:34:27,266 - INFO - Completed Screenshot of Slabo 27px
+16972 2019-03-13 10:34:27,657 - INFO - Completed Screenshot of Prata
+18160 2019-03-13 10:34:28,724 - INFO - Completed Screenshot of Merriweather
+268 2019-03-13 10:34:29,289 - INFO - Completed Screenshot of Snippet
+16972 2019-03-13 10:34:29,838 - INFO - Completed Screenshot of Pridi
+13404 2019-03-13 10:34:29,847 - INFO - Completed Screenshot of Fahkwang
+17340 2019-03-13 10:34:29,847 - INFO - Completed Screenshot of Cabin
+17064 2019-03-13 10:34:29,848 - INFO - Completed Screenshot of Alegreya
+17424 2019-03-13 10:34:29,935 - INFO - Completed Screenshot of Junge
+268 2019-03-13 10:34:31,628 - INFO - Completed Screenshot of Song Myung
+18160 2019-03-13 10:34:32,128 - INFO - Completed Screenshot of Merriweather Sans
+13404 2019-03-13 10:34:32,242 - INFO - Completed Screenshot of Fanwood Text
+17424 2019-03-13 10:34:32,354 - INFO - Completed Screenshot of Jura
+16972 2019-03-13 10:34:32,422 - INFO - Completed Screenshot of Prociono
+17064 2019-03-13 10:34:32,483 - INFO - Completed Screenshot of Alegreya SC
+17340 2019-03-13 10:34:32,994 - INFO - Completed Screenshot of Cabin Condensed
+268 2019-03-13 10:34:34,147 - INFO - Completed Screenshot of Sorts Mill Goudy
+18160 2019-03-13 10:34:34,208 - INFO - Completed Screenshot of Metrophobic
+17424 2019-03-13 10:34:34,625 - INFO - Completed Screenshot of K2D
+13404 2019-03-13 10:34:34,724 - INFO - Completed Screenshot of Fasthand
+17064 2019-03-13 10:34:34,765 - INFO - Completed Screenshot of Alegreya Sans
+16972 2019-03-13 10:34:34,803 - INFO - Completed Screenshot of Prompt
+17340 2019-03-13 10:34:35,353 - INFO - Completed Screenshot of Cagliostro
+18160 2019-03-13 10:34:36,228 - INFO - Completed Screenshot of Michroma
+268 2019-03-13 10:34:36,450 - INFO - Completed Screenshot of Source Sans Pro
+13404 2019-03-13 10:34:36,913 - INFO - Completed Screenshot of Fauna One
+17424 2019-03-13 10:34:36,944 - INFO - Completed Screenshot of Kadwa
+16972 2019-03-13 10:34:36,948 - INFO - Completed Screenshot of Proza Libre
+17064 2019-03-13 10:34:37,036 - INFO - Completed Screenshot of Alegreya Sans SC
+17340 2019-03-13 10:34:37,657 - INFO - Completed Screenshot of Cairo
+18160 2019-03-13 10:34:38,628 - INFO - Completed Screenshot of Mina
+268 2019-03-13 10:34:39,124 - INFO - Completed Screenshot of Source Serif Pro
+13404 2019-03-13 10:34:39,588 - INFO - Completed Screenshot of Faustina
+17064 2019-03-13 10:34:39,654 - INFO - Completed Screenshot of Aleo
+17424 2019-03-13 10:34:39,764 - INFO - Completed Screenshot of Kameron
+17340 2019-03-13 10:34:39,857 - INFO - Completed Screenshot of Cambay
+16972 2019-03-13 10:34:40,093 - INFO - Completed Screenshot of Puritan
+18160 2019-03-13 10:34:40,955 - INFO - Completed Screenshot of Miriam Libre
+268 2019-03-13 10:34:41,566 - INFO - Completed Screenshot of Spectral
+13404 2019-03-13 10:34:41,904 - INFO - Completed Screenshot of Federo
+17064 2019-03-13 10:34:42,007 - INFO - Completed Screenshot of Alice
+17424 2019-03-13 10:34:42,028 - INFO - Completed Screenshot of Kanit
+17340 2019-03-13 10:34:42,156 - INFO - Completed Screenshot of Cambo
+16972 2019-03-13 10:34:42,440 - INFO - Completed Screenshot of Quando
+18160 2019-03-13 10:34:42,753 - INFO - Completed Screenshot of Mitr
+268 2019-03-13 10:34:43,216 - INFO - Completed Screenshot of Spectral SC
+17424 2019-03-13 10:34:43,379 - INFO - Completed Screenshot of Kantumruy
+17064 2019-03-13 10:34:43,421 - INFO - Completed Screenshot of Alike
+13404 2019-03-13 10:34:43,422 - INFO - Completed Screenshot of Fenix
+17340 2019-03-13 10:34:43,503 - INFO - Completed Screenshot of Candal
+16972 2019-03-13 10:34:43,776 - INFO - Completed Screenshot of Quantico
+18160 2019-03-13 10:34:44,001 - INFO - Completed Screenshot of Molengo
+268 2019-03-13 10:34:44,764 - INFO - Completed Screenshot of Spinnaker
+17064 2019-03-13 10:34:44,952 - INFO - Completed Screenshot of Alike Angular
+13404 2019-03-13 10:34:44,981 - INFO - Completed Screenshot of Fira Sans
+17340 2019-03-13 10:34:45,031 - INFO - Completed Screenshot of Cantarell
+17424 2019-03-13 10:34:45,150 - INFO - Completed Screenshot of Karla
+16972 2019-03-13 10:34:45,892 - INFO - Completed Screenshot of Quattrocento
+18160 2019-03-13 10:34:46,079 - INFO - Completed Screenshot of Monda
+17340 2019-03-13 10:34:47,180 - INFO - Completed Screenshot of Cantata One
+268 2019-03-13 10:34:47,182 - INFO - Completed Screenshot of Sree Krushnadevaraya
+17064 2019-03-13 10:34:47,220 - INFO - Completed Screenshot of Allerta
+13404 2019-03-13 10:34:47,455 - INFO - Completed Screenshot of Fira Sans Condensed
+17424 2019-03-13 10:34:47,837 - INFO - Completed Screenshot of Karma
+18160 2019-03-13 10:34:48,389 - INFO - Completed Screenshot of Montaga
+16972 2019-03-13 10:34:48,719 - INFO - Completed Screenshot of Quattrocento Sans
+17340 2019-03-13 10:34:49,555 - INFO - Completed Screenshot of Cantora One
+268 2019-03-13 10:34:49,725 - INFO - Completed Screenshot of Stoke
+13404 2019-03-13 10:34:49,735 - INFO - Completed Screenshot of Fira Sans Extra Condensed
+17064 2019-03-13 10:34:49,775 - INFO - Completed Screenshot of Allerta Stencil
+17424 2019-03-13 10:34:50,553 - INFO - Completed Screenshot of Khand
+18160 2019-03-13 10:34:50,796 - INFO - Completed Screenshot of Montserrat
+16972 2019-03-13 10:34:51,234 - INFO - Completed Screenshot of Questrial
+268 2019-03-13 10:34:52,264 - INFO - Completed Screenshot of Strait
+17340 2019-03-13 10:34:52,336 - INFO - Completed Screenshot of Capriola
+17064 2019-03-13 10:34:52,379 - INFO - Completed Screenshot of Almendra
+13404 2019-03-13 10:34:52,553 - INFO - Completed Screenshot of Fjalla One
+18160 2019-03-13 10:34:53,088 - INFO - Completed Screenshot of Montserrat Alternates
+17424 2019-03-13 10:34:53,135 - INFO - Completed Screenshot of Khula
+16972 2019-03-13 10:34:54,247 - INFO - Completed Screenshot of Quicksand
+17340 2019-03-13 10:34:54,926 - INFO - Completed Screenshot of Cardo
+268 2019-03-13 10:34:54,946 - INFO - Completed Screenshot of Stylish
+17064 2019-03-13 10:34:54,951 - INFO - Completed Screenshot of Almendra SC
+13404 2019-03-13 10:34:55,138 - INFO - Completed Screenshot of Fjord One
+18160 2019-03-13 10:34:55,616 - INFO - Completed Screenshot of Montserrat Subrayada
+17424 2019-03-13 10:34:56,062 - INFO - Completed Screenshot of Kite One
+17340 2019-03-13 10:34:57,409 - INFO - Completed Screenshot of Carme
+17064 2019-03-13 10:34:57,451 - INFO - Completed Screenshot of Amaranth
+268 2019-03-13 10:34:57,494 - INFO - Completed Screenshot of Suez One
+13404 2019-03-13 10:34:57,664 - INFO - Completed Screenshot of Francois One
+18160 2019-03-13 10:34:57,896 - INFO - Completed Screenshot of Mouse Memoirs
+16972 2019-03-13 10:34:58,053 - INFO - Completed Screenshot of Radley
+17424 2019-03-13 10:34:58,694 - INFO - Completed Screenshot of KoHo
+17340 2019-03-13 10:35:00,012 - INFO - Completed Screenshot of Carrois Gothic
+17064 2019-03-13 10:35:00,220 - INFO - Completed Screenshot of Amethysta
+13404 2019-03-13 10:35:00,228 - INFO - Completed Screenshot of Frank Ruhl Libre
+268 2019-03-13 10:35:00,337 - INFO - Completed Screenshot of Sumana
+18160 2019-03-13 10:35:00,391 - INFO - Completed Screenshot of Mukta
+16972 2019-03-13 10:35:00,937 - INFO - Completed Screenshot of Rajdhani
+17424 2019-03-13 10:35:01,395 - INFO - Completed Screenshot of Kodchasan
+17340 2019-03-13 10:35:02,450 - INFO - Completed Screenshot of Carrois Gothic SC
+13404 2019-03-13 10:35:02,598 - INFO - Completed Screenshot of Fresca
+18160 2019-03-13 10:35:02,631 - INFO - Completed Screenshot of Mukta Mahee
+17064 2019-03-13 10:35:02,646 - INFO - Completed Screenshot of Amiko
+268 2019-03-13 10:35:03,008 - INFO - Completed Screenshot of Sunflower
+16972 2019-03-13 10:35:03,337 - INFO - Completed Screenshot of Raleway
+17424 2019-03-13 10:35:03,870 - INFO - Completed Screenshot of Kosugi
+17340 2019-03-13 10:35:04,712 - INFO - Completed Screenshot of Catamaran
+18160 2019-03-13 10:35:04,819 - INFO - Completed Screenshot of Mukta Malar
+17064 2019-03-13 10:35:05,099 - INFO - Completed Screenshot of Amiri
+13404 2019-03-13 10:35:05,360 - INFO - Completed Screenshot of GFS Didot
+268 2019-03-13 10:35:05,479 - INFO - Completed Screenshot of Sura
+16972 2019-03-13 10:35:05,975 - INFO - Completed Screenshot of Ramabhadra
+17424 2019-03-13 10:35:06,709 - INFO - Completed Screenshot of Kosugi Maru
+18160 2019-03-13 10:35:07,107 - INFO - Completed Screenshot of Mukta Vaani
+17340 2019-03-13 10:35:07,196 - INFO - Completed Screenshot of Caudex
+17064 2019-03-13 10:35:07,928 - INFO - Completed Screenshot of Anaheim
+268 2019-03-13 10:35:07,933 - INFO - Completed Screenshot of Suranna
+13404 2019-03-13 10:35:08,211 - INFO - Completed Screenshot of GFS Neohellenic
+16972 2019-03-13 10:35:08,475 - INFO - Completed Screenshot of Ramaraja
+17424 2019-03-13 10:35:09,225 - INFO - Completed Screenshot of Kotta One
+17340 2019-03-13 10:35:09,577 - INFO - Completed Screenshot of Chakra Petch
+18160 2019-03-13 10:35:09,631 - INFO - Completed Screenshot of Muli
+17064 2019-03-13 10:35:10,280 - INFO - Completed Screenshot of Andada
+268 2019-03-13 10:35:10,443 - INFO - Completed Screenshot of Suravaram
+13404 2019-03-13 10:35:10,621 - INFO - Completed Screenshot of Gabriela
+16972 2019-03-13 10:35:10,769 - INFO - Completed Screenshot of Rambla
+17424 2019-03-13 10:35:11,121 - INFO - Completed Screenshot of Kreon
+18160 2019-03-13 10:35:11,285 - INFO - Completed Screenshot of NTR
+17340 2019-03-13 10:35:11,334 - INFO - Completed Screenshot of Changa
+17064 2019-03-13 10:35:11,710 - INFO - Completed Screenshot of Andika
+268 2019-03-13 10:35:11,947 - INFO - Completed Screenshot of Syncopate
+13404 2019-03-13 10:35:11,998 - INFO - Completed Screenshot of Gafata
+16972 2019-03-13 10:35:12,227 - INFO - Completed Screenshot of Rasa
+17424 2019-03-13 10:35:12,505 - INFO - Completed Screenshot of Krona One
+18160 2019-03-13 10:35:12,679 - INFO - Completed Screenshot of Nanum Gothic
+17340 2019-03-13 10:35:12,833 - INFO - Completed Screenshot of Chathura
+17064 2019-03-13 10:35:13,674 - INFO - Completed Screenshot of Antic
+13404 2019-03-13 10:35:14,243 - INFO - Completed Screenshot of Galdeano
+268 2019-03-13 10:35:14,539 - INFO - Completed Screenshot of Tajawal
+16972 2019-03-13 10:35:14,616 - INFO - Completed Screenshot of Rationale
+18160 2019-03-13 10:35:15,048 - INFO - Completed Screenshot of Nanum Myeongjo
+17340 2019-03-13 10:35:15,158 - INFO - Completed Screenshot of Chau Philomene One
+17424 2019-03-13 10:35:15,364 - INFO - Completed Screenshot of Krub
+17064 2019-03-13 10:35:16,284 - INFO - Completed Screenshot of Antic Didone
+268 2019-03-13 10:35:16,991 - INFO - Completed Screenshot of Tauri
+13404 2019-03-13 10:35:17,072 - INFO - Completed Screenshot of Gentium Basic
+16972 2019-03-13 10:35:17,181 - INFO - Completed Screenshot of Reem Kufi
+18160 2019-03-13 10:35:17,357 - INFO - Completed Screenshot of Neuton
+17340 2019-03-13 10:35:17,548 - INFO - Completed Screenshot of Chivo
+17424 2019-03-13 10:35:17,943 - INFO - Completed Screenshot of Kurale
+17064 2019-03-13 10:35:18,868 - INFO - Completed Screenshot of Antic Slab
+13404 2019-03-13 10:35:19,518 - INFO - Completed Screenshot of Gentium Book Basic
+268 2019-03-13 10:35:19,590 - INFO - Completed Screenshot of Taviraj
+18160 2019-03-13 10:35:19,822 - INFO - Completed Screenshot of News Cycle
+16972 2019-03-13 10:35:19,922 - INFO - Completed Screenshot of Rhodium Libre
+17340 2019-03-13 10:35:20,223 - INFO - Completed Screenshot of Cinzel
+17424 2019-03-13 10:35:20,729 - INFO - Completed Screenshot of Laila
+17064 2019-03-13 10:35:21,512 - INFO - Completed Screenshot of Anton
+13404 2019-03-13 10:35:22,170 - INFO - Completed Screenshot of Geo
+18160 2019-03-13 10:35:22,178 - INFO - Completed Screenshot of Niramit
+268 2019-03-13 10:35:22,414 - INFO - Completed Screenshot of Teko
+16972 2019-03-13 10:35:22,428 - INFO - Completed Screenshot of Roboto
+17340 2019-03-13 10:35:22,532 - INFO - Completed Screenshot of Coda Caption
+17424 2019-03-13 10:35:23,324 - INFO - Completed Screenshot of Lato
+17064 2019-03-13 10:35:24,107 - INFO - Completed Screenshot of Arapey
+18160 2019-03-13 10:35:24,471 - INFO - Completed Screenshot of Nobile
+13404 2019-03-13 10:35:24,693 - INFO - Completed Screenshot of Gidugu
+268 2019-03-13 10:35:24,940 - INFO - Completed Screenshot of Telex
+17340 2019-03-13 10:35:25,093 - INFO - Completed Screenshot of Convergence
+16972 2019-03-13 10:35:25,161 - INFO - Completed Screenshot of Roboto Condensed
+17424 2019-03-13 10:35:25,889 - INFO - Completed Screenshot of Ledger
+17064 2019-03-13 10:35:26,701 - INFO - Completed Screenshot of Arbutus Slab
+18160 2019-03-13 10:35:26,947 - INFO - Completed Screenshot of Nokora
+13404 2019-03-13 10:35:27,218 - INFO - Completed Screenshot of Gilda Display
+268 2019-03-13 10:35:27,495 - INFO - Completed Screenshot of Tenali Ramakrishna
+17340 2019-03-13 10:35:27,583 - INFO - Completed Screenshot of Copse
+16972 2019-03-13 10:35:27,706 - INFO - Completed Screenshot of Roboto Slab
+17424 2019-03-13 10:35:28,428 - INFO - Completed Screenshot of Lekton
+17064 2019-03-13 10:35:29,219 - INFO - Completed Screenshot of Archivo
+18160 2019-03-13 10:35:29,228 - INFO - Completed Screenshot of Notable
+13404 2019-03-13 10:35:29,704 - INFO - Completed Screenshot of Glegoo
+17340 2019-03-13 10:35:30,042 - INFO - Completed Screenshot of Cormorant
+268 2019-03-13 10:35:30,062 - INFO - Completed Screenshot of Tenor Sans
+16972 2019-03-13 10:35:30,554 - INFO - Completed Screenshot of Rokkitt
+17424 2019-03-13 10:35:31,377 - INFO - Completed Screenshot of Libre Baskerville
+18160 2019-03-13 10:35:31,648 - INFO - Completed Screenshot of Noticia Text
+17064 2019-03-13 10:35:32,098 - INFO - Completed Screenshot of Archivo Black
+13404 2019-03-13 10:35:32,365 - INFO - Completed Screenshot of Gothic A1
+17340 2019-03-13 10:35:32,557 - INFO - Completed Screenshot of Cormorant Garamond
+268 2019-03-13 10:35:33,059 - INFO - Completed Screenshot of Text Me One
+16972 2019-03-13 10:35:33,288 - INFO - Completed Screenshot of Ropa Sans
+17424 2019-03-13 10:35:33,890 - INFO - Completed Screenshot of Libre Franklin
+18160 2019-03-13 10:35:34,043 - INFO - Completed Screenshot of Noto Sans
+17064 2019-03-13 10:35:34,467 - INFO - Completed Screenshot of Archivo Narrow
+13404 2019-03-13 10:35:34,631 - INFO - Completed Screenshot of Goudy Bookletter 1911
+17340 2019-03-13 10:35:34,654 - INFO - Completed Screenshot of Cormorant Infant
+268 2019-03-13 10:35:35,060 - INFO - Completed Screenshot of Thasadith
+16972 2019-03-13 10:35:35,263 - INFO - Completed Screenshot of Rosario
+17424 2019-03-13 10:35:36,304 - INFO - Completed Screenshot of Linden Hill
+18160 2019-03-13 10:35:36,772 - INFO - Completed Screenshot of Noto Sans JP
+17340 2019-03-13 10:35:37,304 - INFO - Completed Screenshot of Cormorant SC
+17064 2019-03-13 10:35:37,334 - INFO - Completed Screenshot of Aref Ruqaa
+13404 2019-03-13 10:35:37,401 - INFO - Completed Screenshot of Gudea
+268 2019-03-13 10:35:38,068 - INFO - Completed Screenshot of Tienne
+16972 2019-03-13 10:35:38,290 - INFO - Completed Screenshot of Rosarivo
+18160 2019-03-13 10:35:39,784 - INFO - Completed Screenshot of Noto Sans KR
+17424 2019-03-13 10:35:39,940 - INFO - Completed Screenshot of Lora
+17340 2019-03-13 10:35:40,704 - INFO - Completed Screenshot of Cormorant Unicase
+17064 2019-03-13 10:35:41,055 - INFO - Completed Screenshot of Arimo
+13404 2019-03-13 10:35:41,316 - INFO - Completed Screenshot of Gurajada
+268 2019-03-13 10:35:41,476 - INFO - Completed Screenshot of Timmana
+16972 2019-03-13 10:35:42,145 - INFO - Completed Screenshot of Rozha One
+18160 2019-03-13 10:35:43,395 - INFO - Completed Screenshot of Noto Sans SC
+17424 2019-03-13 10:35:43,849 - INFO - Completed Screenshot of Lusitana
+17340 2019-03-13 10:35:44,329 - INFO - Completed Screenshot of Cormorant Upright
+17064 2019-03-13 10:35:44,441 - INFO - Completed Screenshot of Armata
+13404 2019-03-13 10:35:46,004 - INFO - Completed Screenshot of Habibi
+268 2019-03-13 10:35:46,374 - INFO - Completed Screenshot of Tinos
+16972 2019-03-13 10:35:46,974 - INFO - Completed Screenshot of Rubik
+18160 2019-03-13 10:35:47,256 - INFO - Completed Screenshot of Noto Sans TC
+17340 2019-03-13 10:35:48,088 - INFO - Completed Screenshot of Coustard
+17424 2019-03-13 10:35:48,246 - INFO - Completed Screenshot of Lustria
+17064 2019-03-13 10:35:48,765 - INFO - Completed Screenshot of Arsenal
+13404 2019-03-13 10:35:49,437 - INFO - Completed Screenshot of Halant
+268 2019-03-13 10:35:49,765 - INFO - Completed Screenshot of Titillium Web
+18160 2019-03-13 10:35:50,092 - INFO - Completed Screenshot of Noto Serif
+16972 2019-03-13 10:35:50,336 - INFO - Completed Screenshot of Rubik Mono One
+17064 2019-03-13 10:35:52,068 - INFO - Completed Screenshot of Artifika
+17424 2019-03-13 10:35:52,086 - INFO - Completed Screenshot of M PLUS 1p
+17340 2019-03-13 10:35:52,135 - INFO - Completed Screenshot of Crete Round
+18160 2019-03-13 10:35:52,940 - INFO - Completed Screenshot of Noto Serif JP
+13404 2019-03-13 10:35:53,175 - INFO - Completed Screenshot of Hammersmith One
+16972 2019-03-13 10:35:53,199 - INFO - Completed Screenshot of Ruda
+268 2019-03-13 10:35:53,863 - INFO - Completed Screenshot of Trirong
+17340 2019-03-13 10:35:55,221 - INFO - Completed Screenshot of Crimson Text
+18160 2019-03-13 10:35:55,315 - INFO - Completed Screenshot of Noto Serif KR
+16972 2019-03-13 10:35:55,450 - INFO - Completed Screenshot of Rufina
+17064 2019-03-13 10:35:55,652 - INFO - Completed Screenshot of Arvo
+17424 2019-03-13 10:35:55,669 - INFO - Completed Screenshot of M PLUS Rounded 1c
+13404 2019-03-13 10:35:55,698 - INFO - Completed Screenshot of Hanuman
+268 2019-03-13 10:35:56,158 - INFO - Completed Screenshot of Trocchi
+17340 2019-03-13 10:35:56,806 - INFO - Completed Screenshot of Cuprum
+18160 2019-03-13 10:35:56,890 - INFO - Completed Screenshot of Noto Serif SC
+16972 2019-03-13 10:35:57,538 - INFO - Completed Screenshot of Ruluko
+17424 2019-03-13 10:35:58,052 - INFO - Completed Screenshot of Mada
+13404 2019-03-13 10:35:58,144 - INFO - Completed Screenshot of Harmattan
+17064 2019-03-13 10:35:58,235 - INFO - Completed Screenshot of Arya
+268 2019-03-13 10:35:58,970 - INFO - Completed Screenshot of Trykker
+17340 2019-03-13 10:35:59,813 - INFO - Completed Screenshot of Cutive
+18160 2019-03-13 10:35:59,873 - INFO - Completed Screenshot of Noto Serif TC
+16972 2019-03-13 10:36:00,982 - INFO - Completed Screenshot of Rum Raisin
+17064 2019-03-13 10:36:00,995 - INFO - Completed Screenshot of Asap
+13404 2019-03-13 10:36:01,124 - INFO - Completed Screenshot of Headland One
+17424 2019-03-13 10:36:01,203 - INFO - Completed Screenshot of Magra
+268 2019-03-13 10:36:01,891 - INFO - Completed Screenshot of Ubuntu
+18160 2019-03-13 10:36:02,690 - INFO - Completed Screenshot of Numans
+17340 2019-03-13 10:36:02,836 - INFO - Completed Screenshot of David Libre
+17064 2019-03-13 10:36:04,157 - INFO - Completed Screenshot of Asap Condensed
+17424 2019-03-13 10:36:04,244 - INFO - Completed Screenshot of Maitree
+16972 2019-03-13 10:36:04,256 - INFO - Completed Screenshot of Russo One
+13404 2019-03-13 10:36:04,418 - INFO - Completed Screenshot of Heebo
+268 2019-03-13 10:36:05,344 - INFO - Completed Screenshot of Ubuntu Condensed
+17340 2019-03-13 10:36:06,025 - INFO - Completed Screenshot of Days One
+18160 2019-03-13 10:36:06,567 - INFO - Completed Screenshot of Nunito
+16972 2019-03-13 10:36:07,450 - INFO - Completed Screenshot of Sahitya
+17064 2019-03-13 10:36:07,468 - INFO - Completed Screenshot of Asar
+13404 2019-03-13 10:36:07,555 - INFO - Completed Screenshot of Hind
+17424 2019-03-13 10:36:07,680 - INFO - Completed Screenshot of Mako
+268 2019-03-13 10:36:08,415 - INFO - Completed Screenshot of Ultra
+17340 2019-03-13 10:36:09,133 - INFO - Completed Screenshot of Della Respira
+18160 2019-03-13 10:36:09,786 - INFO - Completed Screenshot of Nunito Sans
+17064 2019-03-13 10:36:10,497 - INFO - Completed Screenshot of Assistant
+17424 2019-03-13 10:36:10,606 - INFO - Completed Screenshot of Mallanna
+13404 2019-03-13 10:36:10,684 - INFO - Completed Screenshot of Hind Guntur
+16972 2019-03-13 10:36:11,130 - INFO - Completed Screenshot of Saira
+268 2019-03-13 10:36:11,582 - INFO - Completed Screenshot of Unna
+17340 2019-03-13 10:36:12,271 - INFO - Completed Screenshot of Denk One
+18160 2019-03-13 10:36:13,315 - INFO - Completed Screenshot of Old Standard TT
+17064 2019-03-13 10:36:13,508 - INFO - Completed Screenshot of Asul
+13404 2019-03-13 10:36:13,701 - INFO - Completed Screenshot of Hind Madurai
+17424 2019-03-13 10:36:13,733 - INFO - Completed Screenshot of Mandali
+16972 2019-03-13 10:36:14,156 - INFO - Completed Screenshot of Saira Condensed
+268 2019-03-13 10:36:14,849 - INFO - Completed Screenshot of Varela
+17340 2019-03-13 10:36:15,239 - INFO - Completed Screenshot of Dhurjati
+17064 2019-03-13 10:36:16,544 - INFO - Completed Screenshot of Athiti
+18160 2019-03-13 10:36:16,621 - INFO - Completed Screenshot of Open Sans
+13404 2019-03-13 10:36:16,800 - INFO - Completed Screenshot of Hind Siliguri
+17424 2019-03-13 10:36:17,086 - INFO - Completed Screenshot of Manuale
+16972 2019-03-13 10:36:17,120 - INFO - Completed Screenshot of Saira Extra Condensed
+268 2019-03-13 10:36:17,797 - INFO - Completed Screenshot of Varela Round
+17340 2019-03-13 10:36:18,099 - INFO - Completed Screenshot of Didact Gothic
+17064 2019-03-13 10:36:19,334 - INFO - Completed Screenshot of Average
+13404 2019-03-13 10:36:19,583 - INFO - Completed Screenshot of Hind Vadodara
+18160 2019-03-13 10:36:19,732 - INFO - Completed Screenshot of Open Sans Condensed
+17424 2019-03-13 10:36:20,035 - INFO - Completed Screenshot of Marcellus
+16972 2019-03-13 10:36:20,369 - INFO - Completed Screenshot of Saira Semi Condensed
+268 2019-03-13 10:36:20,649 - INFO - Completed Screenshot of Vesper Libre
+17340 2019-03-13 10:36:20,900 - INFO - Completed Screenshot of Do Hyeon
+17064 2019-03-13 10:36:22,178 - INFO - Completed Screenshot of Average Sans
+13404 2019-03-13 10:36:22,339 - INFO - Completed Screenshot of Holtwood One SC
+18160 2019-03-13 10:36:22,755 - INFO - Completed Screenshot of Oranienbaum
+17424 2019-03-13 10:36:22,951 - INFO - Completed Screenshot of Marcellus SC
+16972 2019-03-13 10:36:23,226 - INFO - Completed Screenshot of Sanchez
+268 2019-03-13 10:36:23,380 - INFO - Completed Screenshot of Vidaloka
+17340 2019-03-13 10:36:23,386 - INFO - Completed Screenshot of Domine
+17064 2019-03-13 10:36:24,135 - INFO - Completed Screenshot of B612
+13404 2019-03-13 10:36:24,171 - INFO - Completed Screenshot of Homenaje
+18160 2019-03-13 10:36:24,425 - INFO - Completed Screenshot of Orbitron
+17424 2019-03-13 10:36:24,570 - INFO - Completed Screenshot of Markazi Text
+16972 2019-03-13 10:36:24,892 - INFO - Completed Screenshot of Sansita
+17340 2019-03-13 10:36:25,023 - INFO - Completed Screenshot of Donegal One
+268 2019-03-13 10:36:25,040 - INFO - Completed Screenshot of Viga
+17064 2019-03-13 10:36:26,656 - INFO - Completed Screenshot of Bai Jamjuree
+18160 2019-03-13 10:36:26,932 - INFO - Completed Screenshot of Orienta
+13404 2019-03-13 10:36:27,123 - INFO - Completed Screenshot of IBM Plex Sans
+17424 2019-03-13 10:36:27,618 - INFO - Completed Screenshot of Marko One
+17340 2019-03-13 10:36:27,771 - INFO - Completed Screenshot of Doppio One
+16972 2019-03-13 10:36:27,962 - INFO - Completed Screenshot of Sarabun
+268 2019-03-13 10:36:28,163 - INFO - Completed Screenshot of Volkhov
+17064 2019-03-13 10:36:29,555 - INFO - Completed Screenshot of Balthazar
+18160 2019-03-13 10:36:29,721 - INFO - Completed Screenshot of Oswald
+13404 2019-03-13 10:36:30,152 - INFO - Completed Screenshot of IBM Plex Sans Condensed
+17424 2019-03-13 10:36:30,455 - INFO - Completed Screenshot of Marmelad
+17340 2019-03-13 10:36:30,634 - INFO - Completed Screenshot of Dorsa
+268 2019-03-13 10:36:31,217 - INFO - Completed Screenshot of Vollkorn
+16972 2019-03-13 10:36:31,417 - INFO - Completed Screenshot of Sarala
+17064 2019-03-13 10:36:32,551 - INFO - Completed Screenshot of Barlow
+18160 2019-03-13 10:36:32,575 - INFO - Completed Screenshot of Overpass
+13404 2019-03-13 10:36:33,102 - INFO - Completed Screenshot of IBM Plex Serif
+17424 2019-03-13 10:36:33,461 - INFO - Completed Screenshot of Martel
+17340 2019-03-13 10:36:33,785 - INFO - Completed Screenshot of Dosis
+268 2019-03-13 10:36:34,359 - INFO - Completed Screenshot of Vollkorn SC
+16972 2019-03-13 10:36:34,438 - INFO - Completed Screenshot of Sarpanch
+18160 2019-03-13 10:36:35,672 - INFO - Completed Screenshot of Ovo
+17064 2019-03-13 10:36:35,851 - INFO - Completed Screenshot of Barlow Condensed
+13404 2019-03-13 10:36:36,422 - INFO - Completed Screenshot of IM Fell DW Pica
+17340 2019-03-13 10:36:36,647 - INFO - Completed Screenshot of Duru Sans
+17424 2019-03-13 10:36:36,650 - INFO - Completed Screenshot of Martel Sans
+268 2019-03-13 10:36:37,675 - INFO - Completed Screenshot of Voltaire
+16972 2019-03-13 10:36:37,725 - INFO - Completed Screenshot of Sawarabi Gothic
+18160 2019-03-13 10:36:38,512 - INFO - Completed Screenshot of Oxygen
+17064 2019-03-13 10:36:38,802 - INFO - Completed Screenshot of Barlow Semi Condensed
+13404 2019-03-13 10:36:39,387 - INFO - Completed Screenshot of IM Fell DW Pica SC
+17340 2019-03-13 10:36:39,650 - INFO - Completed Screenshot of EB Garamond
+17424 2019-03-13 10:36:39,713 - INFO - Completed Screenshot of Marvel
+268 2019-03-13 10:36:40,579 - INFO - Completed Screenshot of Wendy One
+16972 2019-03-13 10:36:41,118 - INFO - Completed Screenshot of Sawarabi Mincho
+18160 2019-03-13 10:36:41,378 - INFO - Completed Screenshot of PT Sans
+17064 2019-03-13 10:36:41,819 - INFO - Completed Screenshot of Basic
+13404 2019-03-13 10:36:42,378 - INFO - Completed Screenshot of IM Fell Double Pica
+17340 2019-03-13 10:36:42,626 - INFO - Completed Screenshot of Economica
+17424 2019-03-13 10:36:42,647 - INFO - Completed Screenshot of Mate
+268 2019-03-13 10:36:43,671 - INFO - Completed Screenshot of Wire One
+16972 2019-03-13 10:36:44,316 - INFO - Completed Screenshot of Scada
+18160 2019-03-13 10:36:44,530 - INFO - Completed Screenshot of PT Sans Caption
+17064 2019-03-13 10:36:45,103 - INFO - Completed Screenshot of Belgrano
+17340 2019-03-13 10:36:45,575 - INFO - Completed Screenshot of Eczar
+13404 2019-03-13 10:36:45,602 - INFO - Completed Screenshot of IM Fell Double Pica SC
+17424 2019-03-13 10:36:45,859 - INFO - Completed Screenshot of Mate SC
+268 2019-03-13 10:36:46,879 - INFO - Completed Screenshot of Work Sans
+18160 2019-03-13 10:36:47,262 - INFO - Completed Screenshot of PT Sans Narrow
+16972 2019-03-13 10:36:47,362 - INFO - Completed Screenshot of Scheherazade
+17064 2019-03-13 10:36:48,035 - INFO - Completed Screenshot of Bellefair
+17340 2019-03-13 10:36:48,491 - INFO - Completed Screenshot of El Messiri
+13404 2019-03-13 10:36:48,519 - INFO - Completed Screenshot of IM Fell English
+268 2019-03-13 10:36:49,614 - INFO - Completed Screenshot of Yanone Kaffeesatz
+18160 2019-03-13 10:36:49,830 - INFO - Completed Screenshot of PT Serif
+16972 2019-03-13 10:36:50,481 - INFO - Completed Screenshot of Scope One
+17064 2019-03-13 10:36:50,824 - INFO - Completed Screenshot of Belleza
+17340 2019-03-13 10:36:51,186 - INFO - Completed Screenshot of Electrolize
+13404 2019-03-13 10:36:51,455 - INFO - Completed Screenshot of IM Fell English SC
+18160 2019-03-13 10:36:52,230 - INFO - Completed Screenshot of PT Serif Caption
+268 2019-03-13 10:36:52,263 - INFO - Completed Screenshot of Yantramanav
+17064 2019-03-13 10:36:52,706 - INFO - Completed Screenshot of BenchNine
+13404 2019-03-13 10:36:52,948 - INFO - Completed Screenshot of IM Fell French Canon
+18160 2019-03-13 10:36:53,713 - INFO - Completed Screenshot of Padauk
+268 2019-03-13 10:36:53,924 - INFO - Completed Screenshot of Yrsa
+17064 2019-03-13 10:36:54,837 - INFO - Completed Screenshot of Bentham
+13404 2019-03-13 10:36:55,403 - INFO - Completed Screenshot of IM Fell French Canon SC
+18160 2019-03-13 10:36:55,925 - INFO - Completed Screenshot of Palanquin
+268 2019-03-13 10:36:56,400 - INFO - Completed Screenshot of ZCOOL XiaoWei
+13404 2019-03-13 10:36:57,574 - INFO - Completed Screenshot of IM Fell Great Primer
+18160 2019-03-13 10:36:57,991 - INFO - Completed Screenshot of Palanquin Dark
+268 2019-03-13 10:36:58,427 - INFO - Completed Screenshot of Zilla Slab
+18160 2019-03-13 10:36:59,507 - INFO - Completed Screenshot of Pathway Gothic One
+18160 2019-03-13 10:37:00,466 - INFO - Completed Screenshot of Pattaya
+18160 2019-03-13 10:37:01,362 - INFO - Completed Screenshot of Pavanam
+18160 2019-03-13 10:37:03,145 - INFO - Completed Screenshot of Paytone One
+Master finished Execution , Completed in : 213.57852482795715         seconds

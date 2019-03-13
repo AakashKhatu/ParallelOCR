@@ -38,4 +38,6 @@ with open("./get_font_images/test.html", "w") as html_file:
     html_file.write(html_start)
     for e in string.ascii_letters:
         html_file.write('<div id="{0}" class="letter">{0}</div>\n'.format(e))
+            if e == 'z':
+                html_file.write("<br>")
     html_file.write(html_end)
