@@ -53,3 +53,6 @@ OR
 ### Compile Page  
   - arrange returned text according to index and process id  
   - save as txt or pdf  
+
+[My References](./REFERENCE.md)
+[Benchmarks For Creating Dataset](./get_font_images/benchmark.md)
