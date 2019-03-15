@@ -19,6 +19,7 @@ def normalize(path):
     img = img[y:y+h, x:x+w]
     img = cv2.bitwise_not(img)
     img = cv2.resize(img, (16, 16))
+    img = cv2.normalize(img, 0, 255, cv2.NORM_MINMAX)
     cv2.imwrite(path, img)
 
 
