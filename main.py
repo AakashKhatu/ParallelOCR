@@ -1,18 +1,9 @@
 from sklearn.svm import SVC
 import matplotlib.pyplot as plt
-import os
-import cv2
-import numpy as np
 import pickle
 
-# target = os.listdir("./Screenshots")[1:]
-# skip the .gitkeep file
-output = open("dataset_pickle", "wb")
-dataset = {
-    "target": [],
-    "data": []
-}
-img = cv2.imread("./Screenshots/a/Roboto.png", cv2.IMREAD_GRAYSCALE)
+with open("dataset_pickle", "rb") as d:
+    dataset = pickle.load(d)
 
 
 def imageprint(img):
@@ -20,12 +11,9 @@ def imageprint(img):
     plt.show()
 
 
-for folder in os.listdir("./Screenshots")[1:]:
-    for img in os.listdir("./Screenshots/"+folder):
-        dataset["data"].append(cv2.imread(
-            "./Screenshots/{0}/{1}".format(folder, img), cv2.IMREAD_GRAYSCALE).flatten())
-        dataset["target"].append(folder)
+with open("trained_model", "wb") as m:
+    svm = SVC(gamma="scale", probability=True)
+    svm.fit(dataset["data"][:-20], dataset["target"][:-20])
+    pickle.dump(svm, m)
 
-pickle.dump(dataset, output)
-output.close()
-print("completed")
+print(svm.predict(dataset["data"]))

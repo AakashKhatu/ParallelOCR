@@ -37,3 +37,14 @@ for folder in os.listdir("./Screenshots")[1:]:
 # print("average time per font =", total/len(string.ascii_letters), total)
 
 # max average time per letter is 0.003 seconds
+
+# Dataset Pickle Creator
+# for folder in os.listdir("./Screenshots")[1:]:
+#     for img in os.listdir("./Screenshots/"+folder):
+#         dataset["data"].append(cv2.imread(
+#             "./Screenshots/{0}/{1}".format(folder, img), cv2.IMREAD_GRAYSCALE).flatten())
+#         dataset["target"].append(folder)
+
+# pickle.dump(dataset, output)
+# output.close()
+# print("completed")
