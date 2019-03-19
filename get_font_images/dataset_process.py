@@ -1,6 +1,5 @@
 # from time import time
 import cv2
-import string
 import os
 
 

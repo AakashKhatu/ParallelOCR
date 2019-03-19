@@ -169,3 +169,6 @@ get_font_images/chromedriver.exe
 get_font_images/geckodriver.exe
 get_font_images/phantomjsdriver.exe
 *.log
+
+output_text/*
+!output_text/.gitkeep
